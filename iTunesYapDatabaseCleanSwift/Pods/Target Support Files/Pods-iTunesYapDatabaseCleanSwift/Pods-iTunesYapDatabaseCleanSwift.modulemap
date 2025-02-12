@@ -1,0 +1,6 @@
+framework module Pods_iTunesYapDatabaseCleanSwift {
+  umbrella header "Pods-iTunesYapDatabaseCleanSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
