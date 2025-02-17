@@ -2,7 +2,7 @@
 //  AlbumCollectionViewCell.swift
 //  iTunesYapDatabaseCleanSwift
 //
-//  Created by Ибрагим Габибли on 12.02.2025.
+//  Created by Ибрагим Габибли on 17.02.2025.
 //
 
 import UIKit
